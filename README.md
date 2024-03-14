@@ -1,3 +1,3 @@
 # firstGithub-demo
 <br>
-Author - Vrushabh Gundecha
+Author - Vrushabh G
